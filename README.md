@@ -1,5 +1,6 @@
 # LAGPL
 
+```
 ;;;;; ; ;;;        ,;;;;;;;,    ,;;;;;,   ; ;;;;;;,  ; ;;;
 ;;;;; ; ;;;       ;;;      ;;  ;;;        ; ;;;  ;;; ; ;;;
 ;;;;; ; ;;;      ;;;       ;;; ;;;  ;;;;; ; ;;;  ;,;   ;;;
@@ -56,3 +57,4 @@
 ;;; copyleft advocates, a chore that rapidly ceased to be a selection
 ;;; from an endless menu of existing texts, and became a blank file,
 ;;; waiting for my own words.
+```
