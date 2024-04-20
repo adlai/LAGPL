@@ -1,0 +1,2 @@
+# LAGPL
+LAAAAAAAAAG public license
